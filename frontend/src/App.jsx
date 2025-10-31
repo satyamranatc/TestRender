@@ -114,7 +114,7 @@ const backendLibraries = [
             </div>
           </div>
           <h1 className="text-6xl md:text-8xl font-black mb-6 bg-gradient-to-r from-black to-black bg-clip-text text-transparent">
-            krito
+            The React Batch || Krito
           </h1>
           <p className="text-xl md:text-3xl text-gray-700 max-w-4xl mx-auto font-light leading-relaxed">
             Full-Stack Project Generator • Zero Configuration • Production Ready
